@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "livePreview": true,
+  "attachmentFolderPath": "attachmets",
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "uriCallbacks": true,
+  "focusNewTab": true
+}
