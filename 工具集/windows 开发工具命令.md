@@ -182,3 +182,10 @@ $ tasklist | findstr "nginx"
 $ taskkill /?
 $ taskkill /F /IM nginx.exe /T
 ```
+
+```sh
+# hyper
+$ hyper install hyper-dracula
+$ hyper install hyperborder
+$ hyper install hyperpower
+```

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具集/开发问题记录.md",
+                "file": "工具集/windows 开发工具命令.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "开发问题记录"
+              "title": "windows 开发工具命令"
             }
           }
         ]
@@ -125,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具集/开发问题记录.md",
+                "file": "工具集/windows 开发工具命令.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "开发问题记录 的大纲"
+              "title": "windows 开发工具命令 的大纲"
             }
           },
           {
@@ -245,20 +245,20 @@
   },
   "active": "736f32738161797d",
   "lastOpenFiles": [
+    "工具集/obsidian 使用入门.md",
+    "工具集/windows 开发工具命令.md",
     "工具集/常用工具命令.md",
+    "工具集/系统常用软件.md",
+    "工具集/git 问题记录.md",
+    "工具集/git 命令记录.md",
+    "工具集/mac 使用记录.md",
+    "工具集/mac 开发工具命令.md",
+    "书签导航.md",
     "工具集/开发问题记录.md",
     "工具集/bash 命令记录.md",
-    "工具集/git 命令记录.md",
-    "工具集/git 问题记录.md",
-    "工具集/windows 开发工具命令.md",
-    "书签导航.md",
     "conflict-files-obsidian-git.md",
     "README.md",
-    "工具集/mac 开发工具命令.md",
-    "工具集/obsidian 使用入门.md",
     "工具集/linux 管理命令速查手册.md",
-    "工具集/mac 使用记录.md",
-    "工具集/系统常用软件.md",
     "备忘录/js 实用小技巧.md",
     "开源项目学习.md",
     "心灵鸡汤/剪藏句子.md",

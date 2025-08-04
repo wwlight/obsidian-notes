@@ -1,64 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "开发问题记录",
-      "path": "工具集/开发问题记录.md"
-    },
-    {
-      "basename": "常用工具命令",
-      "path": "工具集/常用工具命令.md"
-    },
-    {
-      "basename": "bash 命令记录",
-      "path": "工具集/bash 命令记录.md"
-    },
-    {
-      "basename": "git 命令记录",
-      "path": "工具集/git 命令记录.md"
-    },
-    {
-      "basename": "git 问题记录",
-      "path": "工具集/git 问题记录.md"
-    },
-    {
       "basename": "windows 开发工具命令",
       "path": "工具集/windows 开发工具命令.md"
-    },
-    {
-      "basename": "书签导航",
-      "path": "书签导航.md"
-    },
-    {
-      "basename": "mac 使用记录",
-      "path": "工具集/mac 使用记录.md"
-    },
-    {
-      "basename": "mac 开发工具命令",
-      "path": "工具集/mac 开发工具命令.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "mac 开发工具命令",
-      "path": "工具集/mac 开发工具命令.md"
     },
     {
       "basename": "obsidian 使用入门",
       "path": "工具集/obsidian 使用入门.md"
     },
     {
-      "basename": "linux 管理命令速查手册",
-      "path": "工具集/linux 管理命令速查手册.md"
+      "basename": "常用工具命令",
+      "path": "工具集/常用工具命令.md"
+    },
+    {
+      "basename": "系统常用软件",
+      "path": "工具集/系统常用软件.md"
+    },
+    {
+      "basename": "git 问题记录",
+      "path": "工具集/git 问题记录.md"
+    },
+    {
+      "basename": "git 命令记录",
+      "path": "工具集/git 命令记录.md"
     },
     {
       "basename": "mac 使用记录",
       "path": "工具集/mac 使用记录.md"
     },
     {
-      "basename": "系统常用软件",
-      "path": "工具集/系统常用软件.md"
+      "basename": "mac 开发工具命令",
+      "path": "工具集/mac 开发工具命令.md"
+    },
+    {
+      "basename": "书签导航",
+      "path": "书签导航.md"
+    },
+    {
+      "basename": "开发问题记录",
+      "path": "工具集/开发问题记录.md"
+    },
+    {
+      "basename": "bash 命令记录",
+      "path": "工具集/bash 命令记录.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "linux 管理命令速查手册",
+      "path": "工具集/linux 管理命令速查手册.md"
     },
     {
       "basename": "js 实用小技巧",
