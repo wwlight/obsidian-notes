@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "系统常用软件",
+      "path": "工具集/系统常用软件.md"
+    },
+    {
+      "basename": "mac 使用记录",
+      "path": "工具集/mac 使用记录.md"
+    },
+    {
       "basename": "windows 开发工具命令",
       "path": "工具集/windows 开发工具命令.md"
     },
@@ -13,20 +21,12 @@
       "path": "工具集/常用工具命令.md"
     },
     {
-      "basename": "系统常用软件",
-      "path": "工具集/系统常用软件.md"
-    },
-    {
       "basename": "git 问题记录",
       "path": "工具集/git 问题记录.md"
     },
     {
       "basename": "git 命令记录",
       "path": "工具集/git 命令记录.md"
-    },
-    {
-      "basename": "mac 使用记录",
-      "path": "工具集/mac 使用记录.md"
     },
     {
       "basename": "mac 开发工具命令",
